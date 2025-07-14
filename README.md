@@ -1,4 +1,4 @@
-#projects images given below made in solid works different parts and assembly file present
+# projects images given below made in solid works different parts and assembly file present
 <img width="1920" height="1080" alt="blue-6" src="https://github.com/user-attachments/assets/c5d00342-0dc4-4b4d-8643-739bb8b5d5b7" />
 <img width="1920" height="1080" alt="blue-5" src="https://github.com/user-attachments/assets/4f340d47-a59c-429e-9869-d45fa4781bfe" />
 <img width="1920" height="1080" alt="blue-4" src="https://github.com/user-attachments/assets/aa73db58-060c-4416-b9da-178378cadd23" />
